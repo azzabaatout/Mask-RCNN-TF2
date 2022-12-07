@@ -13,9 +13,9 @@ The repository includes:
 
 Please consider downloading the following versions: 
 
-pip uninstall tensorflow -y
-pip uninstall keras -y
-pip install tensorflow-gpu==2.2.0
-pip install keras==2.3.1
-pip3 install scikit-image==0.16.2
-pip3 install opencv-python
+* pip uninstall tensorflow -y
+* pip uninstall keras -y
+* pip install tensorflow-gpu==2.2.0
+* pip install keras==2.3.1
+* pip3 install scikit-image==0.16.2
+* pip3 install opencv-python
